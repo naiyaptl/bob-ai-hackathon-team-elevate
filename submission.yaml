@@ -33,25 +33,30 @@ submission:
     This eliminates long physical queues,reduces wait times during breaks, and helps canteen staff manage orders more efficiently.
 
   key_features:                        # REQUIRED — List 3 to 5 specific features you implemented
-    - ""                               # e.g., "Real-time pipeline anomaly detection using watsonx.ai"
-    - ""
-    - ""
-    - ""                               # optional 4th
-    - ""                               # optional 5th
+    - "Online pre-ordering of food items to reduce waiting time in the campus canteen"                               # e.g., "Real-time pipeline anomaly detection using watsonx.ai"
+    - "Digital menu with food items, prices, availability, and categories"
+    - "Order management system for students and canteen staff"
+    - "Order confirmation and status tracking"                               # optional 4th
+    - "Automated order receipt/invoice generation"                               # optional 5th
 
   tech_stack:
-    languages: []                      # REQUIRED — e.g., ["Python", "TypeScript"]
+    languages: ["PHP", "JavaScript", "HTML", "CSS"]                      # REQUIRED — e.g., ["Python", "TypeScript"]
     frameworks: []                     # e.g., ["FastAPI", "React"]
     ibm_technologies: []               # e.g., ["watsonx.ai", "IBM Bob", "IBM Cloud Functions"]
-    databases: []                      # e.g., ["PostgreSQL", "Redis"]
-    other: []                          # e.g., ["Docker", "GitHub Actions", "Slack API"]
+    databases: ["MySQL"]                      # e.g., ["PostgreSQL", "Redis"]
+    other: ["PHPMailer", "GitHub"]                          # e.g., ["Docker", "GitHub Actions", "Slack API"]
 
   what_we_are_most_proud_of: >         # Optional but recommended — guides judges to your best work
-    
+    We are most proud of building a practical campus canteen solution that
+    allows students to pre-order food digitally, reducing queues and waiting
+    time during busy college hours. The system connects students and canteen
+    staff through a simple order management workflow.
 
   known_limitations: >                 # Optional but recommended — be honest about gaps
-    Replace with any known limitations, incomplete features,
-    or shortcuts taken due to time constraints.
+    The current version is a prototype and has limited real-time integration
+    with the physical canteen. Online payment integration, advanced analytics,
+    mobile application support, and real-time push notifications are not yet
+    implemented due to time constraints.
 
 # =============================================================================
 # ARTIFACT LOCATIONS
