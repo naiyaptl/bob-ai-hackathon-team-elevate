@@ -48,8 +48,9 @@ submission:
     other: []                          # e.g., ["Docker", "GitHub Actions", "Slack API"]
 
   what_we_are_most_proud_of: >         # Optional but recommended — guides judges to your best work
-    Replace with what aspect of the submission you consider strongest
-    and want judges to pay special attention to.
+    The Campus Canteen Pre-Order Web App is a digital platform designed to streamline the food ordering process within the college campus.
+    It allows students and faculty to view the canteen menu,place orders, and select a convenient pickup time in advance.
+    This eliminates long physical queues,reduces wait times during breaks, and helps canteen staff manage orders more efficiently.
 
   known_limitations: >                 # Optional but recommended — be honest about gaps
     Replace with any known limitations, incomplete features,
