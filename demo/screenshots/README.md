@@ -8,8 +8,21 @@ Name your screenshots sequentially so they appear in logical order:
 
   01-landing-page.png       ← First thing a user sees
   02-Registration-page.png       ← Your primary feature in action
-  03-output-or-results.png  ← The result / value delivered
-  04-additional-feature.png ← Any other notable screen
+  03-OtpVerification-page.png
+  04-otp-page.png
+  05-welcome-page.png
+  06-Login-page.png
+  07-DashboardUser.png
+  08-UserOrdering.png
+  09-Cart.png
+  10-Payment.png
+  11-OrderHistory.png
+  12-SuperAdmin.png
+  13-CanteenManage.png
+  14-Manage.png
+  15-Admin.png
+  16-Menuedit.png
+  17-Insights.png
 
 ## Requirements
 
