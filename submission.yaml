@@ -26,12 +26,11 @@ submission:
   title: "Campus Canteen Pre-Order System"                            # REQUIRED — Project display name, e.g., "SmartOps Dashboard"
 
   problem_statement: >                 # REQUIRED — 1-3 sentences. What problem? Who has it?
-    Replace this text with a concise description of the real-world problem
-    your project addresses and who experiences it.
-
+    The Campus Canteen Pre-Order Web App is a digital platform designed to streamline the food ordering process within the college campus.
+  
   solution_summary: >                  # REQUIRED — 1-3 sentences. What did you build?
-    Replace this text with a clear description of your solution
-    and how it addresses the problem above.
+     It allows students and faculty to view the canteen menu,place orders, and select a convenient pickup time in advance.
+    This eliminates long physical queues,reduces wait times during breaks, and helps canteen staff manage orders more efficiently.
 
   key_features:                        # REQUIRED — List 3 to 5 specific features you implemented
     - ""                               # e.g., "Real-time pipeline anomaly detection using watsonx.ai"
@@ -48,9 +47,7 @@ submission:
     other: []                          # e.g., ["Docker", "GitHub Actions", "Slack API"]
 
   what_we_are_most_proud_of: >         # Optional but recommended — guides judges to your best work
-    The Campus Canteen Pre-Order Web App is a digital platform designed to streamline the food ordering process within the college campus.
-    It allows students and faculty to view the canteen menu,place orders, and select a convenient pickup time in advance.
-    This eliminates long physical queues,reduces wait times during breaks, and helps canteen staff manage orders more efficiently.
+    
 
   known_limitations: >                 # Optional but recommended — be honest about gaps
     Replace with any known limitations, incomplete features,
